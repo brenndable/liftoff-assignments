@@ -18,4 +18,4 @@ https://trello.com/b/W4TCB5a2/project-ouchy
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/brenndable/andrew-group-b
